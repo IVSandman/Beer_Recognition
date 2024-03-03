@@ -43,8 +43,7 @@ https://dsp.stackexchange.com/questions/14408/problem-with-
 hsv-and-rgb-color-model
 
 Choosing the correct upper and lower HSV boundaries for color detection with`cv::inRange` (OpenCV)
-https://stackoverflow.com/questions/10948589/choosing
--the-correct-upper-and-lower-hsv-boundaries-for-color-detection-withcv
+https://stackoverflow.com/questions/10948589/choosing-the-correct-upper-and-lower-hsv-boundaries-for-color-detection-withcv
 
 Beer color scale
 https://homebrewing.org/pages/srm-beer-color-scale
