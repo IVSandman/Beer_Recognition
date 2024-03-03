@@ -34,4 +34,18 @@ this discrimination.
                                                         Conclusion
 From our hypothesis, we expected our program to have high precision in the recognition system, minimized number of contours, and errors. The final result, it’s capable of 3 types of beer such as larger, amber ale, and dunkel.
 
+                                                        Reference
+Identifying the range of color in HSV using OpenCV
+https://stackoverflow.com/questions/36817133/identifying-the-range-of-a-color-in-hsv-using-opencv
 
+Problem with HSV and RGB color model
+https://dsp.stackexchange.com/questions/14408/problem-with-
+hsv-and-rgb-color-model
+
+Choosing the correct upper and lower HSV boundaries for color detection with`cv::inRange` (OpenCV)
+https://stackoverflow.com/questions/10948589/choosing
+-the-correct-upper-and-lower-hsv-boundaries-for-color-detection-withcv
+
+Beer color scale
+https://homebrewing.org/pages/srm-beer-color-scale
+https://blackcreekbrewery.wordpress.com/2015/04/09/degl-srm-and-ebc-a-brief-look-at-beer-colour-scales/
