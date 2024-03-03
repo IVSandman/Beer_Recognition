@@ -1,11 +1,10 @@
 # Beer_Recognition
 
-Original Version
+
 https://github.com/IVSandman/Beer_Recognition/assets/79752360/76661563-8a01-40ca-89fe-83c33c1c81c3
 
 
-Alternate Version (RGB model for only dunkel)
-https://github.com/IVSandman/Beer_Recognition/assets/79752360/ab6c6fd5-eaf2-4f73-bd17-20fe02533e6d
+
 
 
 
