@@ -39,8 +39,7 @@ Identifying the range of color in HSV using OpenCV
 https://stackoverflow.com/questions/36817133/identifying-the-range-of-a-color-in-hsv-using-opencv
 
 Problem with HSV and RGB color model
-https://dsp.stackexchange.com/questions/14408/problem-with-
-hsv-and-rgb-color-model
+https://dsp.stackexchange.com/questions/14408/problem-with-hsv-and-rgb-color-model
 
 Choosing the correct upper and lower HSV boundaries for color detection with`cv::inRange` (OpenCV)
 https://stackoverflow.com/questions/10948589/choosing-the-correct-upper-and-lower-hsv-boundaries-for-color-detection-withcv
