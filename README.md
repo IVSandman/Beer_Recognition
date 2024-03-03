@@ -1,7 +1,12 @@
 # Beer_Recognition
 
+Original Version
+https://github.com/IVSandman/Beer_Recognition/assets/79752360/76661563-8a01-40ca-89fe-83c33c1c81c3
 
-https://github.com/IVSandman/Beer_Recognition/assets/79752360/a3d8aa1b-e268-40bd-8c77-851183e5e5af
+
+Alternate Version (RGB model for only dunkel)
+https://github.com/IVSandman/Beer_Recognition/assets/79752360/ab6c6fd5-eaf2-4f73-bd17-20fe02533e6d
+
 
 
 This project is part of the Digital Image Processing and Machine Vision subject and continuously developed in the Industrial Based Design Project subject of King Mongkut's University of Technology North Bangkok's third year.
