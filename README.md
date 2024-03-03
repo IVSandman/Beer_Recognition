@@ -6,6 +6,10 @@ https://github.com/IVSandman/Beer_Recognition/assets/79752360/76661563-8a01-40ca
 
 
 
+https://github.com/IVSandman/Beer_Recognition/assets/79752360/dfe96c50-69b0-420a-ab35-ea94a1f23b70
+
+
+
 
 
 This project is part of the Digital Image Processing and Machine Vision subject and continuously developed in the Industrial Based Design Project subject of King Mongkut's University of Technology North Bangkok's third year.
