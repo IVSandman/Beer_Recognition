@@ -1,4 +1,9 @@
 # Beer_Recognition
+
+
+https://github.com/IVSandman/Beer_Recognition/assets/79752360/a3d8aa1b-e268-40bd-8c77-851183e5e5af
+
+
 This project is part of the Digital Image Processing and Machine Vision subject and continuously developed in the Industrial Based Design Project subject of King Mongkut's University of Technology North Bangkok's third year.
 
 Real-time Beer Recognition using digital image processing for classified and label type of beers using HSV color model.
